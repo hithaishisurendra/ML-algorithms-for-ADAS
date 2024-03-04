@@ -31,6 +31,6 @@ To tackle the challenges posed by dynamic and adverse driving conditions, we hav
    - F-score: 93.16%
    - Error Rate: 4.44%
 
-We will be uploading the two datasets used and lane detection code as soon as possible.
+We will be uploading the two datasets used and code as soon as possible.
 
 Thank you for exploring our project! 🚗🔍
